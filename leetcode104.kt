@@ -7,7 +7,7 @@ class Solution {
     }
 }
 
-// Рекурсия если дошел до конца то отдает 0
-// Проверяет слева до конца потом справа до конца
-// Отдает максимум слева или справа +1 это сама нода где он находиться
-// В конце вся рекурсия отдаст максимальную ветку +1 самая верхушка
+// Recursion, if it reached the end then it returns 0
+// Checks on the left to the end, then on the right to the end
+// Returns the maximum of the left or the right +1, this is the node itself where it is located
+// In the end the whole recursion will return the maximum branch +1, the very top

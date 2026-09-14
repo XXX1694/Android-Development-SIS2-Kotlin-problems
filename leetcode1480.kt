@@ -8,7 +8,7 @@ class Solution {
     }
 }
 
-// создаем переменную sum где будем зарнить сумму
-// через nums.map деалем операции внутри {} тем самым проходимся по nums
-// каждую итерацию мы суммируем корнкретное число в sum и делаем из них List
-// потом через toIntArray конвертируем ее в IntArray (и делаем return)
+// we create a variable sum where we will store the sum
+// through nums.map we do operations inside {}, thereby going through nums
+// each iteration we add the specific number to sum and make a List out of them
+// then through toIntArray we convert it to IntArray (and do return)

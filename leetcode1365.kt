@@ -7,7 +7,7 @@ class Solution {
     }
 }
 
-// Сортируем array, потом даем опирацию .map{} и проходимся по каждому элементу nums
-// Смотрим его индекс то есть позицию в sorted array
-// например после сортировки он 3ий значит перед ним есть 2 числа которые меньше
-// вот так создаем лист и конвертируем обратно в IntArray
+// We sort the array, then we apply the .map{} operation and go through each element of nums
+// We look at its index, that is, its position in the sorted array
+// for example after sorting it is the 3rd, which means before it there are 2 numbers that are smaller
+// that is how we create a list and convert it back to IntArray

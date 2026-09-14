@@ -5,6 +5,6 @@ class Solution {
     }
 }
 
-// Проверяем длину если не совпадает то false
-// Потом запускаем две функции где считаем сколько раз встречается конкретная буква
-// А потом сравниваем две мапы где есть список букв и сколько раз они встречаются
+// We check the length, if it does not match then false
+// Then we run two functions where we count how many times a specific letter occurs
+// And then we compare the two maps where there is a list of letters and how many times they occur

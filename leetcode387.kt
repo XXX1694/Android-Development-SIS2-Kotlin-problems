@@ -5,7 +5,7 @@ class Solution {
     }
 }
 
-// Создаем переменную frequencies и туда засовываем результат s.groupingBy {it}
-// Он берет стринг и по каждой char создает Map а eachCount()
-// Так мы получаем мапу с буквами и сколько раз они встречаются
-// А потом при return берем первый индекс где буква встречается только в единственном экземпляре (если нет то -1)
+// We create a variable frequencies and put there the result of s.groupingBy {it}
+// It takes the string and by each char creates a Map, and eachCount()
+// That is how we get a map with the letters and how many times they occur
+// And then at return we take the first index where the letter occurs only in a single instance (if there is none then -1)
